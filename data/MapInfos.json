@@ -5,7 +5,7 @@ null,
 {"id":3,"expanded":false,"name":"편의점 내부","order":2,"parentId":0,"scrollX":284.44444444444446,"scrollY":315.55555555555554,"quick":false},
 {"id":4,"expanded":true,"name":"편의점 외부","order":1,"parentId":0,"scrollX":284.44444444444446,"scrollY":315.55555555555554,"quick":false},
 {"id":5,"expanded":false,"name":"남주 방","order":3,"parentId":0,"scrollX":274.6666666666667,"scrollY":315.55555555555554,"quick":false},
-{"id":6,"expanded":false,"name":"아파트 외부","order":7,"parentId":0,"scrollX":507.55555555555554,"scrollY":315.55555555555554,"quick":false},
+{"id":6,"expanded":false,"name":"아파트 외부","order":7,"parentId":0,"scrollX":529.7142857142857,"scrollY":608.5714285714286,"quick":false},
 {"id":7,"expanded":false,"name":"복도","order":5,"parentId":1,"scrollX":284.44444444444446,"scrollY":322.6666666666667,"quick":false},
 {"id":8,"expanded":false,"name":"엔딩 방","order":6,"parentId":1,"scrollX":284.44444444444446,"scrollY":315.55555555555554,"quick":false}
 ]
